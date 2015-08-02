@@ -1,0 +1,1 @@
+You can use paq2lab to read in *.paq files to the MATLAB workspace. (AP 01/30/2007)

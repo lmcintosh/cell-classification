@@ -1,0 +1,17 @@
+/.cvsignore/1.1/Sun May 20 22:01:06 2007//
+/APinputdlg.m/1.2/Tue Sep 18 17:17:02 2007//
+/EphysViewer.m/1.38/Mon Oct  1 19:19:16 2007//
+/ExportPeakTrigAvgToBaseWorkspace.m/1.1/Fri Sep 14 17:25:53 2007//
+/MakeTriggeredAveragefromFolder.m/1.3/Sun Jun 17 19:48:37 2007//
+/ReadMe.txt/1.1.1.1/Tue Jan 30 19:44:31 2007//
+/TriggeredAverageKernelFcn.m/1.3/Tue Sep 18 22:01:45 2007//
+/acq_single_exp.m/1.1/Mon Feb 12 17:35:09 2007//
+/bdaqread.m/1.1/Wed Mar 21 15:56:20 2007//
+/packephys.m/1.2/Tue Feb 13 14:48:32 2007//
+/paq2bin.m/1.1/Mon Jun 11 17:41:16 2007//
+/paq2lab.m/1.11/Wed Oct  3 17:35:52 2007//
+/paq_out_reader.m/1.1/Wed Mar 21 15:56:20 2007//
+/paqread.m/1.7/Thu Jul 19 00:31:46 2007//
+/pt_continuousabove.m/1.2/Fri Jun  1 00:09:26 2007//
+/pt_continuousbelow.m/1.3/Fri Jun  1 00:09:26 2007//
+D

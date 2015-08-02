@@ -1,0 +1,16 @@
+/.cvsignore////*///
+/APinputdlg.m////*///
+/EphysViewer.m////*///
+/ExportPeakTrigAvgToBaseWorkspace.m////*///
+/MakeTriggeredAveragefromFolder.m////*///
+/ReadMe.txt////*///
+/TriggeredAverageKernelFcn.m////*///
+/acq_single_exp.m////*///
+/bdaqread.m////*///
+/packephys.m////*///
+/paq2bin.m////*///
+/paq2lab.m////*///
+/paq_out_reader.m////*///
+/paqread.m////*///
+/pt_continuousabove.m////*///
+/pt_continuousbelow.m////*///
